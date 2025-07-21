@@ -10,7 +10,7 @@
 
 **Vellore Institute of Technology, Bhopal**  
 *B.Tech in Computer Science and Engineering*  
-**CGPA**: 9.06  
+**CGPA**: 9.1 
 _Kothri Kalan, Madhya Pradesh_  
 **Sep 2023 – May 2027**
 
